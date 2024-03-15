@@ -1,0 +1,14 @@
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\bin\Debug\net8.0\13. Roman to Integer.exe
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\bin\Debug\net8.0\13. Roman to Integer.deps.json
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\bin\Debug\net8.0\13. Roman to Integer.runtimeconfig.json
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\bin\Debug\net8.0\13. Roman to Integer.dll
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\bin\Debug\net8.0\13. Roman to Integer.pdb
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.AssemblyInfoInputs.cache
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.AssemblyInfo.cs
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.csproj.CoreCompileInputs.cache
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.dll
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\obj\Debug\net8.0\refint\13. Roman to Integer.dll
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.pdb
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.genruntimeconfig.cache
+C:\Users\maste\Documents\Innovation\csharp_leetcode\13. Roman to Integer\obj\Debug\net8.0\ref\13. Roman to Integer.dll

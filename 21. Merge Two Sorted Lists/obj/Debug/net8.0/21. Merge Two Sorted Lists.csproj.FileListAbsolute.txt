@@ -1,0 +1,4 @@
+C:\Users\maste\Documents\Innovation\csharp_leetcode\21. Merge Two Sorted Lists\obj\Debug\net8.0\21. Merge Two Sorted Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Documents\Innovation\csharp_leetcode\21. Merge Two Sorted Lists\obj\Debug\net8.0\21. Merge Two Sorted Lists.AssemblyInfoInputs.cache
+C:\Users\maste\Documents\Innovation\csharp_leetcode\21. Merge Two Sorted Lists\obj\Debug\net8.0\21. Merge Two Sorted Lists.AssemblyInfo.cs
+C:\Users\maste\Documents\Innovation\csharp_leetcode\21. Merge Two Sorted Lists\obj\Debug\net8.0\21. Merge Two Sorted Lists.csproj.CoreCompileInputs.cache
