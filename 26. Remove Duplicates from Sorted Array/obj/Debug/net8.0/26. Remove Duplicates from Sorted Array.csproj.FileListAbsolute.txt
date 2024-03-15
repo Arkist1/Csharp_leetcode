@@ -1,0 +1,15 @@
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\obj\Debug\net8.0\26. Remove Duplicates from Sorted Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\obj\Debug\net8.0\26. Remove Duplicates from Sorted Array.AssemblyInfoInputs.cache
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\obj\Debug\net8.0\26. Remove Duplicates from Sorted Array.AssemblyInfo.cs
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\obj\Debug\net8.0\26. Remove Duplicates from Sorted Array.csproj.CoreCompileInputs.cache
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\obj\Debug\net8.0\26. Remove Duplicates from Sorted Array.sourcelink.json
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\bin\Debug\net8.0\26. Remove Duplicates from Sorted Array.exe
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\bin\Debug\net8.0\26. Remove Duplicates from Sorted Array.deps.json
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\bin\Debug\net8.0\26. Remove Duplicates from Sorted Array.runtimeconfig.json
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\bin\Debug\net8.0\26. Remove Duplicates from Sorted Array.dll
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\bin\Debug\net8.0\26. Remove Duplicates from Sorted Array.pdb
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\obj\Debug\net8.0\26. Remove Duplicates from Sorted Array.dll
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\obj\Debug\net8.0\refint\26. Remove Duplicates from Sorted Array.dll
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\obj\Debug\net8.0\26. Remove Duplicates from Sorted Array.pdb
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\obj\Debug\net8.0\26. Remove Duplicates from Sorted Array.genruntimeconfig.cache
+C:\Users\maste\Documents\!School\inno\Csharp_leetcode\26. Remove Duplicates from Sorted Array\obj\Debug\net8.0\ref\26. Remove Duplicates from Sorted Array.dll
